@@ -12,16 +12,11 @@
 
 <h1 align="center">SpamWa</h1>
 
-Command Promopt To Termux
+Perintah Termux Nya Download Dibawah Ini
 
-```
-$ pkg install python
-$ pkg install git
-$ python3 -m pip install requests
-$ git clone https://github.com/pukipli/SpamWa
-$ cd SpamWa
-$ python3 spam.py
-```
+👇👇
+
+[![termux](https://img.shields.io/badge/SpamWa-83%2B-blue.svg?style=flat)](https://sfile.co/mI6aZ8KqLBr)
 
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
