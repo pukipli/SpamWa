@@ -19,6 +19,9 @@
 
 [![termux](https://img.shields.io/badge/SpamWa-83%2B-blue.svg?style=flat)](https://sfile.co/mI6aZ8KqLBr)
 
+<h1 align="center">Tampilan Jika Berhasil</h1>
+<img width="1080" height="914" alt="Image" src="https://github.com/user-attachments/assets/cb70e258-0faa-4726-ad88-1e6f4891bd19" />
+
 # Persyaratan
 - Pasang Aplikasi Termux Di Android Tetapi Untuk Aplikasi Termux Jangan Di Unduh Di Playstore Karena Bisa Menyebabkan Error
 <h2 align="center">
