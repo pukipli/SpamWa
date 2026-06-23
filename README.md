@@ -12,7 +12,7 @@
 
 <h1 align="center">SpamWa</h1>
 
-Perintah Termux Nya Download Dibawah Ini
+**Script SpamWa Unduh Dibawah Ini !!**
 <h2 align="center">
 
 👇👇
