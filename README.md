@@ -1,14 +1,14 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YouTube+@shopee_banjarmasin" />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=s+h+o+p+e+e+b+j+m" />
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=p+u+k+i+p+l+i" />
 </p>
 
 <img width="1020" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c837e338-75df-4880-adc8-c1abc766861a" />
 
 <h2 align="center">
   
-[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy:shopeebjm-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
+[![Powered By:shopeebjm](https://img.shields.io/badge/PoweredBy🎱-7%2B-blue.svg?style=flat)](http://linktr.ee/kiplymacho)
 
 <h1 align="center">SpamWa</h1>
 
@@ -71,7 +71,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 <div height='45' align="center">
 <h2>Contact me: <br>
 <a href="https://github.com/pukipli"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height='50'> </a>
-<a href="https://facebook.com/shopee.bjm"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
+<a href="https://facebook.com/httpcustomkiplymacho"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" height='50'> </a>
   
 <a href="https://paypal.me/kiplymacho"> <img src="https://cdn.trakteer.id/images/embed/trbtn-red-6.png" height='50'> </a>
 </h2>
@@ -83,7 +83,7 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 # Follow Me :
 ‎‎[![Messenger](https://img.shields.io/badge/Messengers-blue?style=for-the-badge&logo=messenger)](https://fb.me/shopee.bjm)
-‎<a href="https://tiktok.com/@shopee.bjm"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
+‎<a href="https://tiktok.com/@amang.nino"><img title="TikTok" src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Tiktok"></a>
 ‎<a href="https://linktr.ee/kiplymacho" target="_blank"><img src="https://img.shields.io/badge/Socials-grey?style=for-the-badge&logo=linktree"></a>
 ‎<a href="https://github.com/pukipli" target="_blank"><img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github"></a>
 ‎</p>
