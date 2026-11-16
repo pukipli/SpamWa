@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=p+u+k+i+p+l+i" />
 </p>
 
-<img width="1020" height="1020" alt="Image" src="https://github.com/user-attachments/assets/c837e338-75df-4880-adc8-c1abc766861a" />
+<img width="1152" height="2016" alt="Nino Kaos Polos Kerah" src="https://github.com/user-attachments/assets/9713efdb-bce6-40e6-8252-b70f47f70562" />
 
 <h2 align="center">
   
